@@ -1,0 +1,12 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/bsmg/BSIPA-MetadataFileSchema/master/Schema.json",
+  "id": "yt-dlp",
+  "name": "yt-dlp",
+  "author": "yt-dlp team",
+  "version": "2021.9.2",
+  "description": "A youtube-dl fork with additional features and fixes",
+  "gameVersion": "1.18.0",
+  "files": [
+    "Libs/yt-dlp.exe"
+  ]
+}
